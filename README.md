@@ -16,7 +16,7 @@
 ### Hi I'm Alejandro 👋 
 I just finished an intensive Full Stack Web Developer course at SoyHenry, presenting group projects with SCRUM methodology and eager to face new challenges in the IT world. This repository is constantly changing and I hope that the next experiences incorporated will be in a project with you.
 
-- 💼 any freelance work? do reach, [email](mailto:alegfink@gmail.com)
+- 💼 If you want to contact me, here is my [email](mailto:alegfink@gmail.com)
 
 <h3>📈 My github stats</h3>
 
