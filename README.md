@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif))
+
 <!--
 **alegfink/alegfink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
