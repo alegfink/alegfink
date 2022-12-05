@@ -17,7 +17,7 @@
 ### Hi I'm Alejandro 👋 
 I just finished an intensive Full Stack Web Developer course at SoyHenry, presenting group projects with SCRUM methodology and eager to face new challenges in the IT world. This repository is constantly changing and I hope that the next experiences incorporated will be in a project with you.
 
-📈 my github stats
+<h3>📈 My github stats</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alegfink&show_icons=true&theme=gotham" alt="alegfink" />
 
