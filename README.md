@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="GIF" src="https://github.com/alegfink/alegfink/blob/main/code_gif.gif" width="600" height="320" />
+<img align="center" alt="GIF" src="https://github.com/alegfink/alegfink/blob/main/develop-web.gif" width="500" height="320" />
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
@@ -16,6 +16,8 @@
 
 ### Hi I'm Alejandro 👋 
 I just finished an intensive Full Stack Web Developer course at SoyHenry, presenting group projects with SCRUM methodology and eager to face new challenges in the IT world. This repository is constantly changing and I hope that the next experiences incorporated will be in a project with you.
+
+- 💼 any freelance work? do reach, [email](mailto:alegfink@gmail.com)
 
 <h3>📈 My github stats</h3>
 
